@@ -1,0 +1,62 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Das Output-Verzeichnis endet nicht mit einem nachstehenden Schrägstrich. Der Schrägstrich wird in dieser Buildinstanz hinzugefügt, da er für die ordnungsgemäße Auswertung des Output-Verzeichnisses erforderlich ist.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: Das Zwischenverzeichnis (x64\Release\) enthält freigegebene Dateien aus einem anderen Projekt (TrueAim.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1044,5): warning MSB8027: Mehrere Dateien mit dem Namen FortUpdaters.cpp führen zu Ausgaben am selben Speicherort. Dadurch kann ein falsches Buildergebnis entstehen. Die betroffenen Dateien sind Header Files\FortUpdaters\FortUpdaters.cpp, Source Files\FortUpdaters\FortUpdaters.cpp.
+  Discord.cpp
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\DiscordHook\Discord.cpp(33,16): warning C4477: "printf": Die Formatzeichenfolge "%p" erfordert ein Argument vom Typ "void *", das variadic-Argument "1" weist aber den Typ "uintptr_t" auf.
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\DiscordHook\Discord.cpp(62,16): warning C4477: "printf": Die Formatzeichenfolge "%p" erfordert ein Argument vom Typ "void *", das variadic-Argument "1" weist aber den Typ "uintptr_t" auf.
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\DiscordHook\Discord.cpp(85,16): warning C4477: "printf": Die Formatzeichenfolge "%p" erfordert ein Argument vom Typ "void *", das variadic-Argument "1" weist aber den Typ "uintptr_t" auf.
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\DiscordHook\Discord.cpp(108,16): warning C4477: "printf": Die Formatzeichenfolge "%p" erfordert ein Argument vom Typ "void *", das variadic-Argument "1" weist aber den Typ "uintptr_t" auf.
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\DiscordHook\Discord.cpp(131,16): warning C4477: "printf": Die Formatzeichenfolge "%p" erfordert ein Argument vom Typ "void *", das variadic-Argument "1" weist aber den Typ "uintptr_t" auf.
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\DiscordHook\Discord.cpp(155,16): warning C4477: "printf": Die Formatzeichenfolge "%p" erfordert ein Argument vom Typ "void *", das variadic-Argument "1" weist aber den Typ "uintptr_t" auf.
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\DiscordHook\Discord.cpp(178,16): warning C4477: "printf": Die Formatzeichenfolge "%p" erfordert ein Argument vom Typ "void *", das variadic-Argument "1" weist aber den Typ "uintptr_t" auf.
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\DiscordHook\Discord.cpp(194,12): warning C4477: "printf": Die Formatzeichenfolge "%p" erfordert ein Argument vom Typ "void *", das variadic-Argument "1" weist aber den Typ "uintptr_t" auf.
+  dllmain.cPP
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\Header Files\includes.h(3,1): warning C4005: "_CRT_SECURE_NO_WARNINGS": Makro-Neudefinition
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\dllmain.cPP : message : Siehe vorherige Definition von "_CRT_SECURE_NO_WARNINGS"
+  FortUpdaters.cpp
+  Helper.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  Config.cpp
+  core.cpp
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\Header Files\includes.h(3,1): warning C4005: "_CRT_SECURE_NO_WARNINGS": Makro-Neudefinition
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\Source Files\core\core.cpp : message : Siehe vorherige Definition von "_CRT_SECURE_NO_WARNINGS"
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\Source Files\core\core.cpp(80,44): warning C4244: "Argument": Konvertierung von "float" in "DWORD", möglicher Datenverlust
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\Source Files\core\core.cpp(323,30): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\Source Files\core\core.cpp(324,32): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\Source Files\core\core.cpp(325,31): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\Source Files\core\core.cpp(331,36): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\Source Files\core\core.cpp(332,38): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\Source Files\core\core.cpp(333,36): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+  FortUpdaters.cpp
+  menu.cpp
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\Header Files\includes.h(3,1): warning C4005: "_CRT_SECURE_NO_WARNINGS": Makro-Neudefinition
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\Source Files\menu\menu.cpp : message : Siehe vorherige Definition von "_CRT_SECURE_NO_WARNINGS"
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\Source Files\menu\menu.cpp(110,33): warning C4305: "Argument": Verkürzung von "double" in "float"
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\Source Files\menu\menu.cpp(112,41): warning C4305: "Argument": Verkürzung von "double" in "float"
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\Source Files\menu\menu.cpp(113,69): warning C4305: "Argument": Verkürzung von "double" in "float"
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\Source Files\menu\menu.cpp(547,45): warning C4244: "Argument": Konvertierung von "float" in "DWORD", möglicher Datenverlust
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\Source Files\menu\menu.cpp(569,46): warning C4305: "Argument": Verkürzung von "double" in "float"
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\Source Files\menu\menu.cpp(706,72): warning C4305: "Argument": Verkürzung von "double" in "float"
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\Source Files\menu\menu.cpp(778,16): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\Source Files\menu\menu.cpp(793,15): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+  offsets.cpp
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\Header Files\includes.h(3,1): warning C4005: "_CRT_SECURE_NO_WARNINGS": Makro-Neudefinition
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\Source Files\offsets\offsets.cpp : message : Siehe vorherige Definition von "_CRT_SECURE_NO_WARNINGS"
+  settings.cpp
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\Header Files\includes.h(3,1): warning C4005: "_CRT_SECURE_NO_WARNINGS": Makro-Neudefinition
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\Source Files\settings\settings.cpp : message : Siehe vorherige Definition von "_CRT_SECURE_NO_WARNINGS"
+  Util.cpp
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\Header Files\includes.h(3,1): warning C4005: "_CRT_SECURE_NO_WARNINGS": Makro-Neudefinition
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\Source Files\util\Util.cpp : message : Siehe vorherige Definition von "_CRT_SECURE_NO_WARNINGS"
+x64\Release\FortUpdaters.obj : warning LNK4042: Objekt mehrmals angegeben; zusätzliche Objekte werden ignoriert.
+     Bibliothek ".\x64\Release\Release\nvision.lib" und Objekt ".\x64\Release\Release\nvision.exp" werden erstellt.
+LINK : warning LNK4098: Standardbibliothek "LIBCMT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+  Code wird generiert.
+C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\Source Files\core\core.cpp(398): warning C4715: "Core::Initialize": Nicht alle Codepfade geben einen Wert zurück.
+  1460 of 1475 functions (99.0%) were compiled, the rest were copied from previous compilation.
+    24 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  TrueAim.vcxproj -> C:\Users\sucht\Desktop\Ion FN Source\Ion FN Source\.\x64\Release\Release\nvision.dll
